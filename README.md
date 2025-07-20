@@ -1,6 +1,6 @@
 # nebula9.ai
 
-❓ Problem Statement  
+❓ **Problem Statement**  
 Traditional hiring processes often rely on manual, time-consuming screening interviews that can be inconsistent and biased. Recruiters spend a significant amount of time reviewing resumes, comparing them with job descriptions, and conducting initial interviews — often without a standardized structure.  
 
 The challenge is to automate and streamline the early-stage interview process using AI, ensuring:
