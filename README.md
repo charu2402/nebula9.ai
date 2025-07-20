@@ -1,5 +1,21 @@
 # nebula9.ai
-Automated Candidate Interview Agent
+
+❓ Problem Statement  
+Traditional hiring processes often rely on manual, time-consuming screening interviews that can be inconsistent and biased. Recruiters spend a significant amount of time reviewing resumes, comparing them with job descriptions, and conducting initial interviews — often without a standardized structure.  
+
+The challenge is to automate and streamline the early-stage interview process using AI, ensuring:
+
+Efficient candidate screening
+
+Context-aware, adaptive questioning
+
+Consistent evaluation based on resume and job description
+
+Support for both voice and text interactions for accessibility and realism
+
+This project aims to build an intelligent AI interview agent that can simulate real-time interviews using voice and text, evaluate candidate responses in context, and generate structured summaries — saving time and increasing the efficiency of recruitment workflows. 
+
+
 
 <img width="747" height="336" alt="image" src="https://github.com/user-attachments/assets/d1236e00-00b5-4502-8c06-9fd6ea2a5d25" />
 
