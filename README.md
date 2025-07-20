@@ -54,7 +54,15 @@ It analyzes the candidate's **resume** and the **job description**, asks persona
 
 ![WhatsApp Image 2025-07-20 at 12 37 45_3327f3b5](https://github.com/user-attachments/assets/3ee3335e-d4d1-488b-9971-3a96fd18f953)
 
+
 ---
+
+**Voice Input** 
+
+<img width="686" height="950" alt="Screenshot 2025-07-20 122741" src="https://github.com/user-attachments/assets/0f89c636-deda-4adc-ae1e-a5a07ed9a53e" />
+
+---
+
 
 **Interview report**
 
