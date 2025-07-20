@@ -25,18 +25,18 @@ It analyzes the candidate's **resume** and the **job description**, asks persona
 ## 🖼️ Demo
 <img width="876" height="641" alt="image" src="https://github.com/user-attachments/assets/163cc2c7-a59b-46fa-bfd4-30022ebc611f" />
 ❓❓**sample questions**
+
 ![WhatsApp Image 2025-07-20 at 12 34 56_c7cafff4](https://github.com/user-attachments/assets/3296047d-e73f-4421-9838-e0a9de8e4224)
+
 ![WhatsApp Image 2025-07-20 at 12 35 29_6b699a9a](https://github.com/user-attachments/assets/0300ad44-cd19-4585-bc58-1b4826892264)
+
 
 ![WhatsApp Image 2025-07-20 at 12 37 45_3327f3b5](https://github.com/user-attachments/assets/3ee3335e-d4d1-488b-9971-3a96fd18f953)
 
+
 **Interview report**
+
 ![WhatsApp Image 2025-07-20 at 12 38 48_63bbb3f1](https://github.com/user-attachments/assets/ea5a1bd3-3a6b-4dc5-b5af-c55e9f029958)
-
-
-
-
-
 
 ---
 
@@ -50,16 +50,22 @@ It analyzes the candidate's **resume** and the **job description**, asks persona
 ---
 
 ## 📂 Project Files
+
 interview_agent/
 ├── app.py # Main Streamlit app
+
 ├── agents/
+
 │ └── interviewer.py # Gemini model loading and conversation logic
+
 ├── utils/
 │ ├── audio.py # Speech recognition & text-to-speech
-│ ├── pdf_parser.py # PDF text extraction
-│ └── state.py # Session state management
-└── requirements.txt # Project dependencies
 
+│ ├── pdf_parser.py # PDF text extraction
+
+│ └── state.py # Session state management
+
+└── requirements.txt # Project dependencies
 
 ---
 
